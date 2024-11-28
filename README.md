@@ -1,8 +1,8 @@
-# Gênio da lampada 💡🧞
+# Gênio da lâmpada 🧞
 
 ## 📜 Descrição
 
-Bem-vindo ao **Gênio da lampada**! Este projeto é uma página interativa em que, ao clicar no botão "Clique Aqui", a imagem de uma lâmpada se transforma, revelando um gênio saindo dela. A ideia é criar uma experiência divertida e simples usando **React** e **Styled-components**.
+Bem-vindo ao **Gênio da lâmpada**! Este projeto é uma página interativa em que, ao clicar no botão "Clique Aqui", a imagem de uma lâmpada se transforma, revelando um gênio saindo dela. A ideia é criar uma experiência divertida e simples usando **React** e **Styled-components**.
 
 O objetivo deste projeto é mostrar como podemos manipular imagens e componentes de forma interativa no React, além de utilizar o Styled-components para estilização de forma modular e eficiente.
 
